@@ -71,7 +71,7 @@ This project showcases a **messaging forward dialog box** interface where users 
 
 **Muneeb Nadeem**  
 Frontend Web Developer (React.js | Next.js | JavaScript)  
-📍 [GitHub Profile](https://github.com/Muneeb2721/messaging-dialog-animation)
+📍 [GitHub Profile](https://github.com/Muneeb2721)
 
 ---
 
